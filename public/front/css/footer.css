@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'arial-roundedregular';
+    src: url('/front/font/fontdep.com-arialr-webfont.woff2') format('woff2'),
+         url('/front/font/fontdep.com-arialr-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.footer h4{
+	margin-top: 20px;
+	font-size: 20px;
+}
+.footer a{
+	font-size: 14px;
+	color: #fff;
+	display: block;
+	line-height: 24px;
+}
+.footer{
+	color: #fff;
+	background-color: #5a5957;
+	font-family: 'arial-roundedregular', "Times New Roman", Times, serif !important;
+}
+.coppyright{
+	font-size: 14px;
+	margin-top: 90px !important;
+}
+.social_icon img{
+	margin-top: 15px;
+	padding-right: 10px;
+}
+@media only screen and (max-width: 770px) {
+	.footer_menu{
+		display: none !important;
+	}
+
+}

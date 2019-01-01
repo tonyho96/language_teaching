@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="36px" viewBox="0 0 25 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/community-tutor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/community-tutor">
+            <g id="special-icons-30">
+                <path d="M24.7,36 L12.9,31.4 C12.7,31.3 12.4,31.3 12.2,31.4 L0.3,36 C0.2,36 0,35.9 0,35.8 L0,0 L25,0 L25,35.8 C25,35.9 24.8,36 24.7,36 Z" id="Shape" fill="#0071B9"></path>
+                <g id="Group" transform="translate(2.000000, 13.000000)" fill-rule="nonzero">
+                    <path d="M5.6,6.8 L5.6,10.3 C5.6,12 7.8,13.3 10.5,13.3 C13.2,13.3 15.4,12 15.4,10.3 L15.4,6.8" id="Shape" fill="#FFFFFF"></path>
+                    <g id="Shape">
+                        <polygon fill="#FFFFFF" points="1.2 5.5 10.5 1.5 19.8 5.5 10.5 9.6"></polygon>
+                        <path d="M10.5,2 L18.5,5.5 L10.5,9 L2.5,5.5 L10.5,2 Z M10.5,0.9 L10.1,1.1 L2.1,4.6 L0,5.5 L2.1,6.4 L10.1,9.9 L10.5,10.1 L10.9,9.9 L18.9,6.4 L21,5.5 L18.9,4.6 L10.9,1.1 L10.5,0.9 Z" fill="#0071B9"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

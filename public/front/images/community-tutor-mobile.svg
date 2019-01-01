@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="17px" viewBox="0 0 15 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/community-tutor-mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/community-tutor-mobile">
+            <g id="special-icons-31-copy-4">
+                <path d="M14.82,17 L7.74,14.8277778 C7.62,14.7805556 7.44,14.7805556 7.32,14.8277778 L0.18,17 C0.12,17 0,16.9527778 0,16.9055556 L0,0 L15,0 L15,16.9055556 C15,16.9527778 14.88,17 14.82,17 Z" id="Shape" fill="#0071B9"></path>
+                <g id="Group" transform="translate(1.200000, 2.944444)" fill-rule="nonzero">
+                    <path d="M3.36,4.15555556 L3.36,6.29444444 C3.36,7.33333333 4.68,8.12777778 6.3,8.12777778 C7.92,8.12777778 9.24,7.33333333 9.24,6.29444444 L9.24,4.15555556" id="Shape" fill="#FFFFFF"></path>
+                    <g id="Shape">
+                        <polygon fill="#FFFFFF" points="0.72 3.36111111 6.3 0.916666667 11.88 3.36111111 6.3 5.86666667"></polygon>
+                        <path d="M6.3,1.22222222 L11.1,3.36111111 L6.3,5.5 L1.5,3.36111111 L6.3,1.22222222 Z M6.3,0.55 L6.06,0.672222222 L1.26,2.81111111 L0,3.36111111 L1.26,3.91111111 L6.06,6.05 L6.3,6.17222222 L6.54,6.05 L11.34,3.91111111 L12.6,3.36111111 L11.34,2.81111111 L6.54,0.672222222 L6.3,0.55 Z" fill="#0071B9"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
